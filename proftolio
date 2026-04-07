@@ -848,8 +848,8 @@
                     <li>Demonstrated understanding of <strong>scalability and real-time systems</strong>.</li>
                 </ul>
                 <div class="project-links">
-                    <a href="https://github.com/rajshah-web/whatsapp-clone" target="_blank" class="project-link github">🐙 View on GitHub</a>
-                    <a href="https://github.com/rajshah-web/whatsapp-clone" target="_blank" class="project-link">📂 Source Code</a>
+                    <a href="https://github.com/rajshah-web" target="_blank" class="project-link github">🐙 View on GitHub</a>
+                    <a href="https://github.com/rajshah-web" target="_blank" class="project-link">📂 Source Code</a>
                 </div>
             </div>
             
@@ -862,8 +862,8 @@
                     <li>Showcased application of <strong>AI/ML concepts in real-world scenarios (basic level)</strong>.</li>
                 </ul>
                 <div class="project-links">
-                    <a href="https://github.com/rajshah-web/traffic-detection" target="_blank" class="project-link github">🐙 View on GitHub</a>
-                    <a href="https://github.com/rajshah-web/traffic-detection" target="_blank" class="project-link">📂 Source Code</a>
+                    <a href="https://github.com/rajshah-web" target="_blank" class="project-link github">🐙 View on GitHub</a>
+                    <a href="https://github.com/rajshah-web" target="_blank" class="project-link">📂 Source Code</a>
                 </div>
             </div>
 
@@ -1006,8 +1006,8 @@
 
         <div class="resume-cta">
             <p style="margin-bottom: 15px; font-weight: 600;">📥 Ready to Connect?</p>
-            <a href="#" class="btn-download">⬇️ Download Resume (PDF)</a>
             <a href="https://github.com/rajshah-web" target="_blank" class="btn-download btn-github">🐙 View GitHub</a>
+            <a href="#" class="btn-download">⬇️ Download Resume (PDF)</a>
             <a href="https://www.linkedin.com/in/pusp-raj-shah/" target="_blank" class="btn-download btn-linkedin">💼 View LinkedIn</a>
         </div>
 
@@ -1074,4 +1074,3 @@
     </script>
 </body>
 </html>
-
